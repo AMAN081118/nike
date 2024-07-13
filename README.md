@@ -38,10 +38,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ### Installation
 
-1. Clone the repository: (to be updated)
+1. Clone the repository:
 
    ```sh
-
+   git clone https://github.com/AMAN081118/nike.git
    ```
 
 2. Install dependencies:
