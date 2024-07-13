@@ -832,8 +832,8 @@ video {
   .max-sm\:text-\[72px\] {
     font-size: 72px;
   }
-  .max-sm\:leading-\[82\] {
-    line-height: 82;
+  .max-sm\:leading-\[82px\] {
+    line-height: 82px;
   }
 }
 @media (min-width: 640px) {
