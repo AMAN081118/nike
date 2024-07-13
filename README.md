@@ -87,7 +87,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ## License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source.
 
 ## Acknowledgments
 
